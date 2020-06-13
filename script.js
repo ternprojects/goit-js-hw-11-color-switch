@@ -7,3 +7,5 @@ const colors = [
   '#795548',
 ];
 
+console.table(colors);
+
